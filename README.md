@@ -9,12 +9,12 @@ linhas */
 ```
 
 pausar programa
-```
+```c++
 system ("pause");
 ```
 
 retorno de função
-```
+```c++
 //por padrão precisa retornar alguma coisa
 main() {
     // função
@@ -55,7 +55,7 @@ Equivale a
  \\
  Barra invertida
 booleano
-```
+```c++
 bool logico1 = true; // True significa verdadeiro em Inglês
 bool logico2 = false; // False significa falso em Inglês
 bool logico3 = 0; // Atribui-se o inteiro 0 (zero) equivale a 'false'
