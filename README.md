@@ -1,7 +1,7 @@
 # cpp
 
 comentários
-```
+```c++
 // linhas
 
 /* varias
