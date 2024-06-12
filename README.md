@@ -34,7 +34,7 @@ void main() {
 ```
 
 quebra de linha
-```
+```c++
 endl;
 ```
 
@@ -63,28 +63,28 @@ bool logico4 = 189; // Qualquer valor diferente de 0 (zero) é interpretado como
 ```
 
 char
-```
+```c++
 char umCaractere = 'a';
 ```
 
 inteiro
-```
+```c++
 int inteiro = 500;
 ```
 
 float 
-```
+```c++
 float real = 1.15479637; // poucas casas decimais.
 ```
 
 double
-```
+```c++
 double numero = 558749.16846516487975132156857452131274127412974812794812794812798412;
 // precisão acurada.
 ```
 
 string
-```
+```c++
 #include <iostream>
 using namespace std;
 #include <string>
@@ -96,7 +96,7 @@ void main() {
 ```
 
 vetor
-```
+```c++
 float registro[10]; // declaração de um vetor de 10 números reais;
 
 registro[0] = 3.50;
@@ -106,12 +106,12 @@ registro[2] = 3.72;
 registro[9] = 4.84;
 ```
 
-```
+```c++
 // [tipo] [nome][quantidade de registros (entre colchetes)];
 ```
 
 matriz
-```
+```c++
 int matriz[10][20]; // uma matriz 10 colunas e 20 linhas.
 
 matriz[0][0] = 1; // primeira célula da primeira coluna.
@@ -120,7 +120,7 @@ matriz[0][1] = 2; // segunda célula da primeira coluna.
 matriz[9][19]; // última célula da última coluna.
 ```
 
-```
+```c++
 int matriz[5][6][7];
 // uma matriz com 210 campos, formada por 5 colunas, cada coluna com 6 linhas,
 // e cada linha contendo 7 campos.
